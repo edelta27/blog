@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82cd622f-9494-4675-bfd0-f8c4f4598434" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requrements/Diagram PPCV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requrements/Procesy PPCV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requrements/Ścieżka PPCV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/articlecounter/ArticleCounterFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/articlehighlighter/ArticleHighlighterFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/authorarticlecud/AuthorArticleCudFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/authorarticleretriever/AuthorArticleRetrieverFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/readerarticleretriever/ArticleDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/readercommentscrud/ReaderCommentsCrudFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/relatedarticlefinder/RelatedArticleFinderFacede.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacedeTest.java" afterDir="false" />
+    <list default="true" id="82cd622f-9494-4675-bfd0-f8c4f4598434" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacedeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacedeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +60,45 @@
       <recent name="org.example.readerarticleretriever" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.ReaderArticleRetrieverFacedeTest">
+    <configuration name="ReaderArticleRetrieverFacedeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.readerarticleretriever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.readerarticleretriever" />
+      <option name="MAIN_CLASS_NAME" value="org.example.readerarticleretriever.ReaderArticleRetrieverFacedeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReaderArticleRetrieverFacedeTest.f" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.readerarticleretriever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.readerarticleretriever" />
+      <option name="MAIN_CLASS_NAME" value="org.example.readerarticleretriever.ReaderArticleRetrieverFacedeTest" />
+      <option name="METHOD_NAME" value="f" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReaderArticleRetrieverFacedeTest" />
+        <item itemvalue="JUnit.ReaderArticleRetrieverFacedeTest.f" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,8 +108,16 @@
       <option name="presentableId" value="Default" />
       <updated>1709475870647</updated>
       <workItem from="1709475873319" duration="2656000" />
-      <workItem from="1710002726393" duration="3251000" />
+      <workItem from="1710002726393" duration="4698000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1710009650710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710009650710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +133,30 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacedeTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacedeTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/readerarticleretriever/ReaderArticleRetrieverFacede.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
